@@ -8,6 +8,7 @@ To fix it just type:
 
 
 >pacman-key --init
+
 >pacman-key --populate archlinux
 
 
